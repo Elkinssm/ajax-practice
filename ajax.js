@@ -54,10 +54,10 @@ function renderizarPersonaje(obj_personaje) {
 
 
 //capturar evento de clic boton favoritos
-$("#btn-favoritos").click(function) {
+$("#btn-favoritos").click(function () {
     //ocultar el contenedor de personajes
 
 
     //mostrar el contenedor de favoritos
 
-}
+})
